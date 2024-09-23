@@ -1,4 +1,4 @@
-Python code for the submitted manuscript entitled "Edge Detection of Source Body from Magnetic Anomaly Based on ResNet" in Computers & Geosciences
+Python code for the submitted manuscript entitled "Edge Detection of Source Body from Magnetic Anomaly Based on ResNet" 
 
 Code:
 Download all fimes and unzip RAR files.
